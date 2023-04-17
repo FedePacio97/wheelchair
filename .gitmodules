@@ -1,0 +1,6 @@
+[submodule "wheelchair_ecu"]
+	path = wheelchair_ecu
+	url = https://github.com/FedePacio97/wheelchair_ecu.git
+[submodule "wheelchair_joystick_screen"]
+	path = wheelchair_joystick_screen
+	url = https://github.com/FedePacio97/wheelchair_joystick_screen.git
